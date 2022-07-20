@@ -1,5 +1,7 @@
 # Cat Recognition Model using Logistic Regression
 
+Classify images to cat/non-cat
+
 > Self Project inspired from online resources
 
 - This is a logistic regression model which classifies images as cat or not-cat
